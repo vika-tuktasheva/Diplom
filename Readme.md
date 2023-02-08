@@ -1,3 +1,8 @@
+<h1 align="center">Документация</h1>
+
+* #### [План автоматизации тестирования](https://github.com/vika-tuktasheva/diplom/blob/main/docs/plan.md)
+* #### [Отчет по итогам автоматизированного тестирования ](https://github.com/vika-tuktasheva/diplom/blob/main/docs/report.md)
+
 <h1 align="center">Процедура запуска авто-тестов</h1>
 
 ## Подготовка среды перед тестированием:

@@ -17,11 +17,11 @@ testImplementation 'io.qameta.allure:allure-selenide:2.14.0'
 
 
 ## Отчет Gradle:
-![Image text](https://github.com/vika-tuktasheva/Diplom-QA/blob/master/docs/generalresult.png)
+![Image text](https://github.com/vika-tuktasheva/diplom/blob/main/docs/generalresult.png)
 ## Отчет Allure:
-![Image text](https://github.com/vika-tuktasheva/Diplom-QA/blob/master/docs/allure.png)
+![Image text](https://github.com/vika-tuktasheva/diplom/blob/main/docs/allure.png)
 
 
 ## Отчет
-* #### [Созданы 3 баг репорта по найденным дефектам](https://github.com/vika-tuktasheva/Diplom-QA/issues)
+* #### [Созданы 3 баг репорта по найденным дефектам](https://github.com/vika-tuktasheva/diplom/issues)
 * #### Написаны 32 автотеста
